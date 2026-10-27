@@ -13,3 +13,13 @@ Distributed Version Control System: In software development, distributed version
 
 Git: Git is a distributed version control system that enables software development teams to have multiple local copies of the project's codebase independent of each other. These copies, or branches, can be created, merged, and deleted quickly, empowering teams to experiment, with little compute cost, before merging into the main branch (sometimes referred to as the master branch). Git is known for its speed, workflow compatibility, and open source foundation. Source: https://about.gitlab.com/topics/version-control/what-is-git-version-control/
 
+
+Git Branches:
+Branches keep your team’s development work organized and separated. When multiple people work on different features simultaneously, branches prevent changes from conflicting with each other. Each branch acts as an isolated workspace where you implement new features, fix bugs, or experiment with ideas.
+
+With branches, your team can:
+    * Work on separate features without disrupting the main codebase.
+    * Review proposed changes before they affect the rest of the project.
+    * Roll back problematic changes without affecting other work.
+    * Deploy changes to production in a controlled, predictable way.
+
