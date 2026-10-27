@@ -23,3 +23,9 @@ With branches, your team can:
     * Roll back problematic changes without affecting other work.
     * Deploy changes to production in a controlled, predictable way.
 
+Basic Branching and Merging:
+Let’s go through a simple example of branching and merging with a workflow that you might use in the real world. You’ll follow these steps:
+    1. Do some work on a website.
+    2. Create a branch for a new user story you’re working on.
+    3. Do some work in that branch.
+
