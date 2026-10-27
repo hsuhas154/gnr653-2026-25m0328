@@ -34,5 +34,3 @@ At this stage, you’ll receive a call that another issue is critical and you ne
     2. Create a branch to add the hotfix.
     3. After it’s tested, merge the hotfix branch, and push to production.
     4. Switch back to your original user story and continue working.
-
-Buggy feature: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
